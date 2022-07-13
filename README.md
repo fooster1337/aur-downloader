@@ -1,2 +1,6 @@
-# aur-downloader
-Simple python for aur downloader
+# Aur Downloader
+
+
+use :
+    python aur.py <AurPackageName>
+   
