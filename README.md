@@ -1,6 +1,9 @@
 # Aur Downloader
 
-
+<pre>
 use :
-    python aur.py <AurPackageName>
+    python aur.py AurPackageName
+    
+# Gabut Malam
+<pre>
    
